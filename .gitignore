@@ -4,9 +4,6 @@
 # logs
 npm-debug.log
 
-# Nuxt generate
-dist
-
 # gitbook build
 _book/
 
