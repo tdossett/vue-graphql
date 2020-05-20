@@ -25,5 +25,5 @@ npm run test
 npm run lint
 ```
 
-### Customize configuration
+### Customize Vue.js CLI configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
