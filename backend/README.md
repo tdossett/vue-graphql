@@ -1,4 +1,4 @@
-# client
+# backend
 
 ## Project setup
 ```
@@ -25,5 +25,5 @@ npm run test
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Customize Sequelize configuration
+See [Configuration Reference](https://sequelize.org/).
