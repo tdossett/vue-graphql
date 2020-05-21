@@ -10,7 +10,7 @@ This project was based on tutorial: [Node, Express, PostgreSQL, Vue 2 and GraphQ
 
 ## Project setup
 ```
-The following tools, frameworks, and modules are required for this tutorial:
+The following tools, frameworks, and modules are required for this project:
 
 Node.js (choose recommended version),
 Vue 2,
