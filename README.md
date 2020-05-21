@@ -32,6 +32,6 @@ Backend folder contains all configuration for GraphQL and PostgreSQL utilzing Se
 Client folder contains Vue.js components used to perform GraphQL CRUD operations. In addtion contains configuration for ApolloClient module used communicate and execute GraphQL operations. Refer to README.md for 'client' installtion and configuation.
 ```
 
-### Customize Sequelize configuration
-See [Configuration Reference](https://sequelize.org/).
+### Customize GraphQL configuration
+See [Configuration Reference](https://graphql.org/).
 
