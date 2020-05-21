@@ -6,7 +6,6 @@ This project was based on tutorial:
 [Node, Express, PostgreSQL, Vue 2 and GraphQL CRUD Web App](https://morioh.com/p/8a84a1678ad7/). Addtional
 modifications were made from tutorial for configuration of project layout and structure.
 
-A query language for your API
 GraphQL is a query language for APIs and a runtime for fulfilling those queries with your existing data. 
 GraphQL provides a complete and understandable description of the data in your API, gives clients the 
 power to ask for exactly what they need and nothing more, makes it easier to evolve APIs over time, 
