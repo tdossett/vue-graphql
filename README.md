@@ -6,6 +6,12 @@ This project was based on tutorial:
 [Node, Express, PostgreSQL, Vue 2 and GraphQL CRUD Web App](https://morioh.com/p/8a84a1678ad7/). Addtional
 modifications were made from tutorial for configuration of project layout and structure.
 
+A query language for your API
+GraphQL is a query language for APIs and a runtime for fulfilling those queries with your existing data. 
+GraphQL provides a complete and understandable description of the data in your API, gives clients the 
+power to ask for exactly what they need and nothing more, makes it easier to evolve APIs over time, 
+and enables powerful developer tools.
+
 ## GraphQL Video
 See [How to GraphQL](https://www.howtographql.com/basics/3-big-picture/).
 
@@ -31,8 +37,8 @@ IDE or Text Editor (We are using Visual Studio Code)
 Backend folder contains all configuration for GraphQL and PostgreSQL utilzing Sequelize 
 as the ORM (Object Relational Model). Refer to README.md for 'backend' installation and configuation.
 
-Client folder contains Vue.js components used to perform GraphQL CRUD operations. In addtion contains 
-configuration for ApolloClient module used communicate and execute GraphQL operations. 
+Client folder contains Vue.js components used to perform GraphQL CRUD API's. In addtion contains 
+configuration for ApolloClient module used communicate and execute GraphQL API's. 
 Refer to README.md for 'client' installtion and configuation.
 ```
 
