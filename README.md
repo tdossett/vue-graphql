@@ -37,7 +37,7 @@ IDE or Text Editor (We are using Visual Studio Code)
 ### Project Context
 ```
 Backend folder contains all configuration for GraphQL and PostgreSQL utilzing Sequelize 
-as the ORM (Object Relational Model). Refer to README.md for 'backend' installation and configuation.
+as the ORM (Object Relational Mapping). Refer to README.md for 'backend' installation and configuation.
 
 Client folder contains Vue.js components used to perform GraphQL CRUD API's. In addtion contains 
 configuration for ApolloClient module used communicate and execute GraphQL API's. 
