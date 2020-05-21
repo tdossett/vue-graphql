@@ -1,5 +1,5 @@
 # VUE-GRAPHQL Project
-![GraphQL Architecture](graphql_image.jpg).{:height="50%" width="50%"}
+![GraphQL Architecture](graphql_image.jpg | width=48)
 
 ## About
 This project was based on tutorial: 
