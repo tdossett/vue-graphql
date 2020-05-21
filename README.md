@@ -1,5 +1,5 @@
 # VUE-GRAPHQL Project
-[<img src="graphql_image.jpg" width="150"/>](graphql_image.jpg)
+[<img src="graphql_image.jpg" width="350"/>](graphql_image.jpg)
 
 ## About
 This project was based on tutorial: 
